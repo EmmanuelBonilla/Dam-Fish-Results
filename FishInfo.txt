@@ -1,0 +1,17 @@
+Chinook Adult
+Chinook Jack
+Spring Chinook Adult
+Spring Chinook Jack
+Summer Chinook Adult
+Summer Chinook Jack
+Fall Chinook Adult
+Fall Chinook Jack
+Coho Adult
+Coho Jack
+Steelhead
+Wild Steelhead
+Shad
+Sockeye
+Lamprey
+Chum
+Pink

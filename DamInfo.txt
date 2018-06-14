@@ -1,0 +1,19 @@
+Bonneville,Columbia,USACE Portland District,Federal
+Brownlee,Snake,Idaho Power Company,Non-Federal
+Chief Joseph,Columbia,USACE Seattle District,Federal
+Dworshak,North Fork Clearwater,USACE Walla Walla District,Federal
+Grand Coulee,Columbia,Bureau of Reclamation,Federal
+Hells Canyon,Snake,Idaho Power Company,Non-Federal
+Ice Harbor,Snake,USACE Walla Walla District,Federal
+John Day,Columbia,USACE Portland District,Federal
+Little Goose,Snake,USACE Walla Walla District,Federal
+Lower Granite,Snake,USACE Walla Walla District,Federal
+Lower Monumental,Snake,USACE Walla Walla District,Federal
+McNary,Columbia,USACE Walla Walla District,Federal
+Oxbow,Snake,Idaho Power Company,Non-Federal
+Priest Rapids,Columbia,Grant County PUD,Non-Federal
+Rock Island,Columbia,Chelan County PUD,Non-Federal
+Rocky Reach,Columbia,Chelan County PUD,Non-Federal
+The Dalles,Columbia,USACE Portland District,Federal
+Wanapum,Columbia,Grant County PUD,Non-Federal
+Wells,Columbia,Douglas County PUD,Non-Federal
